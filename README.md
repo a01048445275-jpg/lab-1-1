@@ -6,4 +6,4 @@
 ## 라이선스 : 
 <span style="font-size: 12px; font-style: italic;">MIT</span>
 ## 주요 기능 :
-<span style="font-size: 12px; font-style: italic;">웹 크롤링, 데이터베이스 관리, 디스코드 API 연동, 주기적 자동 실행</span>
+<span style="font-size: 12px; font-style: italic;">-'웹 크롤링', -'데이터베이스 관리', -'디스코드 API 연동', -'주기적 자동 실행'</span>
